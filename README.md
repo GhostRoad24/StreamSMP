@@ -1,5 +1,7 @@
 # StreamSMP
 
+# Before installing mods, you will need to install forge using the installer included.
+
 # How to install mods into minecraft.
 
 # 1. You will need to press Windows Key + R to bring up the run menu.
